@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "newpharma-about",
+      "settings": {
+        "secondary_link": "/collections/all",
+        "stores_link": "/pages/tiendas",
+        "cta_link": "/collections/all",
+        "cta_secondary_link": "/collections/all"
+      }
+    }
+  },
+  "order": ["main"]
+}
