@@ -1,19 +1,35 @@
-# NewPharma
+# NewPharma — ¿Qué es NewPharma?
 
-> NewPharma es una marca chilena de bienestar nacida en Viña del Mar en 2020. Ofrece suplementos y productos en categorías como hongos funcionales, vitaminas, creatina, probióticos y colágeno.
+Canonical production page: https://www.newpharma.cl/pages/que-es-new-pharma
+Store: https://www.newpharma.cl/
+Language: Spanish (Chile)
 
-## Información principal
-- Sitio oficial: https://www.newpharma.cl/
-- Sobre NewPharma: https://www.newpharma.cl/pages/que-es-new-pharma
-- Catálogo: https://www.newpharma.cl/collections/all
-- Puntos de venta: https://www.newpharma.cl/pages/puntos-de-venta
-- Instagram: https://www.instagram.com/newpharmachile/
+## Brand summary
 
-## Formatos
-Según el producto, NewPharma ofrece cápsulas, polvo, gomitas y soluciones sublinguales.
+NewPharma presents itself as a Chilean wellness brand founded in Viña del Mar in 2020. Its published About page emphasizes integral wellbeing, product research and selection, quality, innovation, sustainability, ethical choices and local production.
 
-## Disponibilidad
-La marca vende online y cuenta con más de 40 puntos de venta autorizados en Chile, incluyendo farmacias y tiendas especializadas.
+## Facts communicated on the published page
 
-## Nota de salud
-Los suplementos no reemplazan una alimentación equilibrada ni la evaluación de un profesional de la salud. La composición, advertencias e indicaciones deben revisarse en la ficha y el etiquetado de cada producto.
+- Origin: Viña del Mar, Chile.
+- Starting year: 2020.
+- Participation in the Programa de Uso de Marca Chile.
+- Participation for a second consecutive year in the Catálogo de Innovación Alimentaria de Chile 2023.
+- Vegan and gluten-free options; applicability should be checked product by product.
+- Participation communicated in Todos Reciclamos.
+- Commitment to local production and community economic development.
+
+## Main page sections
+
+1. Wellbeing from nature.
+2. Brand mission.
+3. Timeline: 2020, 2022–2023 and today.
+4. Quality, innovation and sustainability.
+5. Educational criteria for evaluating functional mushroom products.
+6. Local origin and production.
+7. Verified customer reviews through Judge.me.
+8. Frequently asked questions.
+9. Links to products, benefits and stores.
+
+## Accuracy note
+
+Technical product claims, certifications and review quotes must be connected to product-specific and verifiable evidence before the Shopify page is published.
